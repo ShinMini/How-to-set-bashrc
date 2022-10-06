@@ -1,6 +1,7 @@
 # how to set bash, fish themes on windows subsystem
 
-![image](https://user-images.githubusercontent.com/77220824/194204939-f709b50a-c640-4065-9c80-b21a3b8776a8.png)
+![image](https://user-images.githubusercontent.com/77220824/194205010-c1ae16cc-33fe-4a94-9847-3635779744ef.png)
+
 
 /# if you want download linux go to [https://docs.microsoft.com/en-us/windows/wsl/install]
 ---
