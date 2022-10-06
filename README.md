@@ -22,6 +22,8 @@
 1. bash shell
 2. fish shell
 3. neo vim 
+  * 이때 보통 neo vim 설정할 때 .vimrc 파일 위치를 몰라서 당황할텐데,
+  * 침착하게 cd ~ 를 입력해 기본 dir로 이동한 후 touch .vimrc 로 .vimrc파일을 만들어 주면 된다.
 
 ## sub tool
 1. nodejs
